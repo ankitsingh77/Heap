@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Heap\Heap.cs" />
     <Compile Include="Heap\HeapType.cs" />
+    <Compile Include="PriorityQueue\PriorityQueue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
