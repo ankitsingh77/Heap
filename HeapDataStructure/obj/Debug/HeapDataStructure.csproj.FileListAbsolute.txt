@@ -1,5 +1,0 @@
-C:\WorkSpace\Utils\HeapDataStructure\HeapDataStructure\bin\Debug\HeapDataStructure.exe
-C:\WorkSpace\Utils\HeapDataStructure\HeapDataStructure\bin\Debug\HeapDataStructure.pdb
-C:\WorkSpace\Utils\HeapDataStructure\HeapDataStructure\obj\Debug\HeapDataStructure.exe
-C:\WorkSpace\Utils\HeapDataStructure\HeapDataStructure\obj\Debug\HeapDataStructure.pdb
-C:\WorkSpace\Utils\HeapDataStructure\HeapDataStructure\obj\Debug\HeapDataStructure.csprojResolveAssemblyReference.cache
